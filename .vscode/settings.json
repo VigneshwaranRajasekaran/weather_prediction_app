@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "D:/nari/narijs/linux",
+    "java.project.sourcePaths": [
+        "assets"
+    ]
+}
